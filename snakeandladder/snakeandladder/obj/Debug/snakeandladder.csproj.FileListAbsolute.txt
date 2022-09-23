@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\snakeandladder\snakeandladder\bin\Debug\snakeandladder.exe.config
+C:\Users\Administrator\source\repos\snakeandladder\snakeandladder\bin\Debug\snakeandladder.exe
+C:\Users\Administrator\source\repos\snakeandladder\snakeandladder\bin\Debug\snakeandladder.pdb
+C:\Users\Administrator\source\repos\snakeandladder\snakeandladder\obj\Debug\snakeandladder.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\snakeandladder\snakeandladder\obj\Debug\snakeandladder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\snakeandladder\snakeandladder\obj\Debug\snakeandladder.Form1.resources
+C:\Users\Administrator\source\repos\snakeandladder\snakeandladder\obj\Debug\snakeandladder.Properties.Resources.resources
+C:\Users\Administrator\source\repos\snakeandladder\snakeandladder\obj\Debug\snakeandladder.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\snakeandladder\snakeandladder\obj\Debug\snakeandladder.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\snakeandladder\snakeandladder\obj\Debug\snakeandladder.exe
+C:\Users\Administrator\source\repos\snakeandladder\snakeandladder\obj\Debug\snakeandladder.pdb
